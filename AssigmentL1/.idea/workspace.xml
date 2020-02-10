@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Assigment.main:war exploded" />
-      <artifact name="Assigment.main:war exploded" />
+      <artifact name="Assigment.main:war exploded2" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
@@ -19,6 +18,15 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -30,8 +38,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gradle-example" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.43843496" />
   </component>
@@ -39,9 +47,13 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\akais\IdeaProjects\AssigmentL1\src\main\webapp\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\akais\IdeaProjects\AssigmentL1\src\main\webapp" />
       <recent name="C:\Users\akais\IdeaProjects\AssigmentL1\src\main\java" />
+      <recent name="C:\Users\akais\IdeaProjects\AssigmentL1\src\main\webapp\resources" />
+      <recent name="C:\Users\akais\IdeaProjects\AssigmentL1\src\main\webapp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,9 +72,9 @@
     <configuration name="Tomcat Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.50" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Assigment.main:war exploded">
+        <artifact name="Assigment.main:war exploded2">
           <settings>
-            <option name="CONTEXT_PATH" value="/Assigment_main_war_exploded" />
+            <option name="CONTEXT_PATH" value="/Assigment_main_war_exploded2" />
           </settings>
         </artifact>
       </deployment>
@@ -125,8 +137,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Assigment.main:war exploded" />
-          <artifact name="Assigment.main:war exploded" />
+          <artifact name="Assigment.main:war exploded2" />
         </option>
       </method>
     </configuration>
@@ -143,6 +154,9 @@
       <updated>1580485435188</updated>
       <workItem from="1580485438724" duration="3413000" />
       <workItem from="1580567593283" duration="1388000" />
+      <workItem from="1580994810957" duration="6365000" />
+      <workItem from="1581314950668" duration="4078000" />
+      <workItem from="1581339880272" duration="10183000" />
     </task>
     <servers />
   </component>
